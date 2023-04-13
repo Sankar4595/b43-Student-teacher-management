@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "100",
+        "name" : "Ananyaa",
+        "class" : "5",
+        "mark" : "80%",
+        "attendance" : "75%"
+    },
+    {
+        "id" : "101",
+        "name" : "Anjanaa",
+        "class" : "8",
+        "mark" : "90%",
+        "attendance" : "85%"
+    },
+    {
+        "id" : "102",
+        "name" : "Dhanvika",
+        "class" : "5",
+        "mark" : "70%",
+        "attendance" : "90%"
+    }
+]
